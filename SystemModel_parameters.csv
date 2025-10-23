@@ -1,0 +1,14 @@
+Parameter,Value
+annual_energy_block_TWh,4.73
+real_WACC,0.06
+bess_eta,0.88
+import_cap_MW,600.0
+import_price_DKK_per_MWh,400.0
+peaker_var_cost_DKK_per_MWh,700.0
+opg_unit_cost_dkk_per_300MW,26647500000.0
+smr_uplift,0.3
+smr_idc,0.2
+smr_extra,12000000000.0
+ow_cost_per_GW_DKK,16000000000.0
+ow_grid_balance_fraction,0.25
+bess_cost_per_kWh_DKK,1344.0

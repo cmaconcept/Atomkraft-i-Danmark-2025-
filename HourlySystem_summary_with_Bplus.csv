@@ -1,0 +1,4 @@
+Portfolio,Annual cost (bn DKK),Cost (DKK/MWh),Unserved energy (MWh),LOLE (hours),Curtailment (GWh),Imports (GWh),Peaker (GWh),Emissions (ktCO2),Total CAPEX (bn DKK)
+A_SMRTwo300_WindSmall_BESSSmall,17.84,3772.0,0.0,0,1374.4,0.0,0.0,0.0,250.2
+B_WindHeavy_BESS4h_PV,46.7,9872.0,0.0,0,1543.8,478.5,0.2,0.02,631.2
+B_plus_WindPV_BESS_Electrolyser_H2Store_H2Peaker_Pit,58.64,12398.0,24.0,1,1660.5,148.2,,0.0,793.1

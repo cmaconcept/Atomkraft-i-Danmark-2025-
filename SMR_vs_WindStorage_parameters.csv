@@ -1,0 +1,22 @@
+Parameter,Value
+Target energy TWh,4.73
+Discount rate (real),0.06
+SMR units,2.0
+SMR CF,0.9
+SMR life (y),60.0
+OPG per-unit DKK (base),26.65
+SMR uplift %,0.3
+SMR IDC %,0.2
+SMR extra items bn DKK,12.0
+SMR total CAPEX bn DKK,95.1402
+Wind CF,0.5
+Wind life (y),30.0
+Wind cost per GW bn DKK,16.0
+Wind+grid factor,0.25
+BESS cost DKK/kWh,1344.0
+BESS hours,4.0
+BESS share of wind nameplate,0.3
+BESS life (y),15.0
+BESS efficiency,0.88
+USD→DKK,7.0
+CAD→DKK,5.1

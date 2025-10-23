@@ -1,0 +1,3 @@
+Scenario,Total capacity (MW),Annual energy (TWh),Total CAPEX (bn DKK),Capital cost (DKK/MWh),Fixed O&M+fuel (DKK/MWh),Modeled LCOE (DKK/MWh),Key conversion
+SMR (2 x 300 MW),600.0,4.73,95.1,1244.0,150.0,1394.0,CAD→DKK=5.1; IDC=20%; FOAK uplift=30%
+Offshore Wind + 4h BESS,1227.0,4.73,26.5,414.0,104.0,518.0,USD→DKK=7.0; OW cost=16bn/GW; BESS=192$/kWh
